@@ -14,7 +14,9 @@ Our group was under Faculty of Industrial and Technology Management, KMUTNB and 
 
 <br /><br />
 
-<img src="./fitm.png" alt="fitm's logo" style="height: 148px; width:256px;"/>
+<div stlye="display:flex;flex-direction:rows;justify-content:flex-start;align-items:flex-start">
+    <img src="./fitm.png" alt="fitm's logo" style="height: 148px; width:256px;"/>
+</div>
 
 ## Links
 - Website: [elite.fitm.kmutnb.ac.th](https://elite.fitm.kmutnb.ac.th)
