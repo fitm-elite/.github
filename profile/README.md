@@ -16,6 +16,7 @@ Our group was under Faculty of Industrial and Technology Management, KMUTNB and 
 
 <div stlye="width:100%;height:auto;display:flex;flex-direction:row;justify-content:flex-start;align-items:flex-start">
     <img src="./fitm.png" alt="fitm's logo" style="height: 148px; width:256px;"/>
+    <img src="./creativelab.png" alt="fitm's logo" style="height: 148px; width:256px;"/>
 </div>
 
 ## Links
