@@ -11,5 +11,5 @@ We invite all students to see our group. and interested in technology Come join 
 
 ## Links
 - Website: [elite.fitm.kmutnb.ac.th](https://elite.fitm.kmutnb.ac.th)
-- Facebook: [FITM Elite](https://facebook.com/fitm-elite)
+- Facebook: [FITM Elite](https://facebook.com/fitmelite)
 - GitHub: [FITM Elite](https://github.com/fitm-elite)
