@@ -10,7 +10,7 @@ We like to do projects that involve hands-on work on software or other things. r
 We invite all students to see our group. and interested in technology Come join in something creative.
 
 ## Based on
-<img src="./fitm.png" alt="fitm's logo" style="height: 128px; width:128px;"/>
+<img src="./fitm.png" alt="fitm's logo" style="height: 128px; width:256px;"/>
 
 ## Links
 - Website: [elite.fitm.kmutnb.ac.th](https://elite.fitm.kmutnb.ac.th)
