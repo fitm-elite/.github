@@ -2,12 +2,15 @@
 
 [![cover](https://github.com/fitm-elite/.github/raw/main/profile/cover.jpg)](https://elite.fitm.kmutnb.ac.th)
 
-## What do we do?
+## Who are we?
 We are a group of students at King Mongkut's University of Technology North Bangkok. Prachinburi Campus who come together to create creative things and are interested in technology skills
 
 We like to do projects that involve hands-on work on software or other things. related to technology We focus on knowledge and research. Our goal is that we work together to develop technology skills to meet the living needs of the future.
 
 We invite all students to see our group. and interested in technology Come join in something creative.
+
+## Based on
+[![fitm](https://github.com/fitm-elite/.github/raw/main/profile/fitm.png)](https://fitm.kmutnb.ac.th)
 
 ## Links
 - Website: [elite.fitm.kmutnb.ac.th](https://elite.fitm.kmutnb.ac.th)
